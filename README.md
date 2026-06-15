@@ -26,7 +26,7 @@ The LLM will use `INDEX.md` to decide which other files are relevant and fetch t
 
 ### What should happen next
 
-Following `INDEX.md`, the assistant should respond by introducing itself as **PmagPylot** and:
+Following `INDEX.md`, the assistant's response should:
 
 1. Briefly state what it can currently help with, based on what's actually in this knowledge base (currently: the reversal/common mean test workflow — see Status below; this will grow as more workflow files are added)
 2. Give a few concrete example prompts the user could try
