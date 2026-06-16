@@ -2,6 +2,10 @@
 
 **PmagPylot** is a community-maintained knowledge base that allows a large language model (LLM) to act as a natural-language assistant for paleomagnetic data analysis using [PmagPy](https://github.com/PmagPy/PmagPy).
 
+<p align="center">
+  <img src="assets/PmagPylot.jpg" alt="PmagPylot logo" width="400">
+</p>
+
 It is **not code** — it is a set of plain-text documents (Markdown) that describe:
 
 - Common analytical workflows and the order steps should happen in
