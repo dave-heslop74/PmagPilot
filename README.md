@@ -36,7 +36,7 @@ Also ensure PmagPy is installed and importable
 (pip install --break-system-packages pmagpy if needed).
 Then read INDEX.md from the local clone and follow it to load
 whatever else is relevant. I'd like your help with a
-paleomagnetic data analysis.
+paleomagnetic data analysis task.
 ```
 
 Claude will clone the repository, check that PmagPy is available, read `INDEX.md`, and load whichever workflow and reference files are relevant to your request — there is no need to provide any other links up front.
